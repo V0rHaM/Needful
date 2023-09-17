@@ -1,0 +1,5 @@
+name: Needful
+version: '${project.version}'
+main: me.v0rham.needful.Needful
+api-version: '1.20'
+authors: [V0rHaM]
